@@ -1,0 +1,27 @@
+.single_card{
+    text-align: center;
+    margin: 15px !important;
+}
+.comp_row{
+    padding: 5rem;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+.about_us{
+   margin-top: 50px !important;
+    padding: 0rem 5rem 5rem 5rem;
+}
+@media (max-width:989px) and  (min-width:360px) {
+    .about_us {
+      padding: 0rem !important; 
+      margin: 0rem !important;
+    }
+
+  }
+  .abt_us_h {
+    margin-bottom: 30px;
+    text-align: center;
+    /* padding: 4rem; */
+  }

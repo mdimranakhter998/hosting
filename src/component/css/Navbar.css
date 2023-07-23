@@ -1,0 +1,18 @@
+/* .navbar_background,.navbarr_background{
+    /* background: rgb(6, 80, 83); */
+    /* background: #678983; */
+
+/* } */
+.active, ::after{
+  background-color: #797979 !important;
+  border-radius: 5px 5px 15px 5px; 
+}
+.logo{
+  height: 35px;
+}
+/* .nav-link:hover, .nav-link:focus {
+  color: rgba(132,251,255,1) !important;
+} */
+.hidden{
+  display: none;
+} 
