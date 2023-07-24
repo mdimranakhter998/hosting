@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const verifyApi = createApi({
   reducerPath: 'verifyApi',
-  baseQuery: fetchBaseQuery({ baseUrl: 'https://new-meter-connection.netlify.app/'}),
+  baseQuery: fetchBaseQuery({ baseUrl: 'https://mdimrankhan.pythonanywhere.com/api/'}),
   tagTypes:["verify"],
   endpoints: (builder) => ({
     createverify: builder.mutation({

@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const tariffApi = createApi({
   reducerPath: 'tariffApi',
-  baseQuery: fetchBaseQuery({ baseUrl: 'https://new-meter-connection.netlify.app/'}),
+  baseQuery: fetchBaseQuery({ baseUrl: 'https://mdimrankhan.pythonanywhere.com/api/'}),
   tagTypes:["tariff"],
   endpoints: (builder) => ({
     createtariff: builder.mutation({

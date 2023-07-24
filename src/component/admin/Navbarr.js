@@ -34,7 +34,7 @@ export function Navbar_admin() {
               src={a}
               alt="logo"
             />
-            Umran ElectriK
+            Umran Electric
           </Navbar.Brand>
 
 

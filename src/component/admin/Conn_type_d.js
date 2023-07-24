@@ -48,7 +48,7 @@ export function Conn_type_d() {
                          <Form className='common_csss' >
                              <Row className="mb-3">
                                  <Button style={{ "background": "none", "border": "none" }} variant="light" className="m-1" size="sm">
-                                     <Nav.Link style={{ float: 'right' }} as={NavLink} to="/admin/block">    Add Connection Type   </Nav.Link>
+                                     <Nav.Link style={{ float: 'right' }} as={NavLink} to="/admin/conn_type">    Add Connection Type   </Nav.Link>
                                  </Button>
                                  <Table bordered hover size="sm">
                                      <thead>

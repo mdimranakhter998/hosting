@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const panchayatApi = createApi({
   reducerPath: 'panchayatApi',
-  baseQuery: fetchBaseQuery({ baseUrl: 'https://new-meter-connection.netlify.app/'}),
+  baseQuery: fetchBaseQuery({ baseUrl: 'https://mdimrankhan.pythonanywhere.com/api/'}),
   tagTypes:["panchayat"],
   endpoints: (builder) => ({
     createpanchayat: builder.mutation({

@@ -2,7 +2,7 @@ import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 export const connectiontypeApi = createApi({
   reducerPath: 'connectiontypeApi',
-  baseQuery: fetchBaseQuery({ baseUrl: 'https://new-meter-connection.netlify.app/'}),
+  baseQuery: fetchBaseQuery({ baseUrl: 'https://mdimrankhan.pythonanywhere.com/api/'}),
   tagTypes:["connectiontype"],
   endpoints: (builder) => ({
     createconnectiontype: builder.mutation({

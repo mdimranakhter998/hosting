@@ -73,7 +73,7 @@ return (
 
 
                     <Button variant="primary" type="submit"  className="m-1" size="sm">
-                        check status
+                        check 
                     </Button>
 
                 </Form>

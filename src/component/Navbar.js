@@ -39,7 +39,7 @@ export function Navbar_r() {
               src={a}
               alt="logo"
             />
-            Umran ElectriK
+            Umran Electric
           </Navbar.Brand>
 
           <Navbar.Toggle aria-controls="basic-navbar-nav" />

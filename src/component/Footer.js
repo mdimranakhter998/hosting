@@ -22,17 +22,15 @@ export function Footer() {
                         <br />
 
                         <u>Contact Us</u> <br />
-                        <br />
-
-                        Office  No. 23 <br />
-                        Lane - 12<br />
+                        <br />                        
                         Opposite Khudabaksh Library
                         <br />
 
-                        Patna 800004
+                        Patna 800007
                         <br />
-
-                        Helpline : 9122784489
+                        Email : mdimranakhter998@gmail.com
+                        <br/>
+                        Contact No : 8210276291
                     </Col>
 
                     <Col>
@@ -50,14 +48,14 @@ export function Footer() {
 
                         <u>Follow Us on </u> <br />
                         <br />
-                        <a target="_blank" href="https://fb.com/umar.qadeer.5"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=100004994553825"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         &nbsp;
                         &nbsp;
-                        <a target="_blank" href="https://fb.com/umar.qadeer.5"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a target="_blank" href="https://linkedin.com/in/md-imran-akhter-256a73221"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         &nbsp;
                         &nbsp;
-                        <a target="_blank" href="https://fb.com/umar.qadeer.5"><i class="fa fa-instagram" aria-hidden="true"></i> </a>
-
+                        <a target="_blank" href="https://www.instagram.com/mdimranakhter998/?igshid=MzNlNGNkZWQ4Mg%3D%3D"><i class="fa fa-instagram" aria-hidden="true"></i> </a>
+                        
                     </Col>
                     <a className='to_top' href="#">&#8613;</a>
                 </Row>
